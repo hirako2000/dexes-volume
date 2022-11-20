@@ -2,7 +2,7 @@
   {
     "volume24h": 7264158,
     "index": 1,
-    "network": "Etherum",
+    "network": "Ethereum",
     "volume24hCap": 72641,
     "type": "Dexes",
     "name": "0x",
@@ -11,7 +11,7 @@
   {
     "volume24h": 539,
     "index": 2,
-    "network": "Etherum",
+    "network": "Ethereum",
     "volume24hCap": 5,
     "type": "Dexes",
     "name": "ApeSwap AMM",
@@ -20,7 +20,7 @@
   {
     "volume24h": 66493862,
     "index": 3,
-    "network": "Etherum",
+    "network": "Ethereum",
     "volume24hCap": 664938,
     "type": "Dexes",
     "name": "Balancer",
@@ -29,7 +29,7 @@
   {
     "volume24h": 299339,
     "index": 4,
-    "network": "Etherum",
+    "network": "Ethereum",
     "volume24hCap": 2993,
     "type": "Dexes",
     "name": "Bancor V2.1",
@@ -38,7 +38,7 @@
   {
     "volume24h": 139,
     "index": 5,
-    "network": "Etherum",
+    "network": "Ethereum",
     "volume24hCap": 1,
     "type": "Dexes",
     "name": "BXH",
@@ -47,7 +47,7 @@
   {
     "volume24h": 181240,
     "index": 6,
-    "network": "Etherum",
+    "network": "Ethereum",
     "volume24hCap": 1812,
     "type": "Dexes",
     "name": "Clipper",
@@ -56,7 +56,7 @@
   {
     "volume24h": 307773322,
     "index": 7,
-    "network": "Etherum",
+    "network": "Ethereum",
     "volume24hCap": 3077733,
     "type": "Dexes",
     "name": "Curve",
@@ -65,7 +65,7 @@
   {
     "volume24h": 493085,
     "index": 8,
-    "network": "Etherum",
+    "network": "Ethereum",
     "volume24hCap": 4930,
     "type": "Dexes",
     "name": "Defi Swap",
@@ -74,7 +74,7 @@
   {
     "volume24h": 42706,
     "index": 9,
-    "network": "Etherum",
+    "network": "Ethereum",
     "volume24hCap": 427,
     "type": "Dexes",
     "name": "DefiPlaza",
@@ -83,7 +83,7 @@
   {
     "volume24h": 1168,
     "index": 10,
-    "network": "Etherum",
+    "network": "Ethereum",
     "volume24hCap": 11,
     "type": "Dexes",
     "name": "DFX Finance",
@@ -92,7 +92,7 @@
   {
     "volume24h": 132854210,
     "index": 11,
-    "network": "Etherum",
+    "network": "Ethereum",
     "volume24hCap": 1328542,
     "type": "Dexes",
     "name": "DODO",
@@ -101,7 +101,7 @@
   {
     "volume24h": 4976,
     "index": 12,
-    "network": "Etherum",
+    "network": "Ethereum",
     "volume24hCap": 49,
     "type": "Dexes",
     "name": "Elk",
@@ -110,7 +110,7 @@
   {
     "volume24h": 541599,
     "index": 13,
-    "network": "Etherum",
+    "network": "Ethereum",
     "volume24hCap": 5415,
     "type": "Dexes",
     "name": "Frax Swap",
@@ -119,7 +119,7 @@
   {
     "volume24h": 13800954,
     "index": 14,
-    "network": "Etherum",
+    "network": "Ethereum",
     "volume24hCap": 138009,
     "type": "Dexes",
     "name": "Hashflow",
@@ -128,7 +128,7 @@
   {
     "volume24h": 2852309,
     "index": 15,
-    "network": "Etherum",
+    "network": "Ethereum",
     "volume24hCap": 28523,
     "type": "Dexes",
     "name": "KyberSwap",
@@ -137,7 +137,7 @@
   {
     "volume24h": 107915,
     "index": 16,
-    "network": "Etherum",
+    "network": "Ethereum",
     "volume24hCap": 1079,
     "type": "Dexes",
     "name": "MooniSwap",
@@ -146,7 +146,7 @@
   {
     "volume24h": 3086,
     "index": 17,
-    "network": "Etherum",
+    "network": "Ethereum",
     "volume24hCap": 30,
     "type": "Dexes",
     "name": "OpenLeverage",
@@ -155,7 +155,7 @@
   {
     "volume24h": 380535,
     "index": 18,
-    "network": "Etherum",
+    "network": "Ethereum",
     "volume24hCap": 3805,
     "type": "Dexes",
     "name": "PancakeSwap",
@@ -164,7 +164,7 @@
   {
     "volume24h": 6036,
     "index": 19,
-    "network": "Etherum",
+    "network": "Ethereum",
     "volume24hCap": 60,
     "type": "Dexes",
     "name": "RadioShack",
@@ -173,7 +173,7 @@
   {
     "volume24h": 2855,
     "index": 20,
-    "network": "Etherum",
+    "network": "Ethereum",
     "volume24hCap": 28,
     "type": "Dexes",
     "name": "Saddle Finance",
@@ -182,7 +182,7 @@
   {
     "volume24h": 2723793,
     "index": 21,
-    "network": "Etherum",
+    "network": "Ethereum",
     "volume24hCap": 27237,
     "type": "Dexes",
     "name": "ShibaSwap",
@@ -191,7 +191,7 @@
   {
     "volume24h": 26494183,
     "index": 22,
-    "network": "Etherum",
+    "network": "Ethereum",
     "volume24hCap": 264941,
     "type": "Dexes",
     "name": "SushiSwap",
@@ -200,7 +200,7 @@
   {
     "volume24h": 21759,
     "index": 23,
-    "network": "Etherum",
+    "network": "Ethereum",
     "volume24hCap": 217,
     "type": "Dexes",
     "name": "Swapr",
@@ -209,7 +209,7 @@
   {
     "volume24h": 153088,
     "index": 24,
-    "network": "Etherum",
+    "network": "Ethereum",
     "volume24hCap": 1530,
     "type": "Dexes",
     "name": "TempleDAO Trade",
@@ -218,7 +218,7 @@
   {
     "volume24h": 4869,
     "index": 25,
-    "network": "Etherum",
+    "network": "Ethereum",
     "volume24hCap": 48,
     "type": "Dexes",
     "name": "Unicly",
@@ -227,7 +227,7 @@
   {
     "volume24h": 13,
     "index": 26,
-    "network": "Etherum",
+    "network": "Ethereum",
     "volume24hCap": 0,
     "type": "Dexes",
     "name": "UniFi",
@@ -236,7 +236,7 @@
   {
     "volume24h": 583418629,
     "index": 27,
-    "network": "Etherum",
+    "network": "Ethereum",
     "volume24hCap": 5834186,
     "type": "Dexes",
     "name": "Uniswap",
@@ -245,7 +245,7 @@
   {
     "volume24h": 1662,
     "index": 28,
-    "network": "Etherum",
+    "network": "Ethereum",
     "volume24hCap": 16,
     "type": "Dexes",
     "name": "WardenSwap",
@@ -254,7 +254,7 @@
   {
     "volume24h": 1050,
     "index": 29,
-    "network": "Etherum",
+    "network": "Ethereum",
     "volume24hCap": 10,
     "type": "Dexes",
     "name": "Yoshi Exchange",
