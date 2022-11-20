@@ -1,0 +1,1703 @@
+[
+  {
+    "volume24h": 7264158,
+    "index": 1,
+    "network": "Etherum",
+    "volume24hCap": 72641,
+    "type": "Dexes",
+    "name": "0x",
+    "logo": "https://icons.llama.fi/0x.png"
+  },
+  {
+    "volume24h": 539,
+    "index": 2,
+    "network": "Etherum",
+    "volume24hCap": 5,
+    "type": "Dexes",
+    "name": "ApeSwap AMM",
+    "logo": "https://icons.llama.fi/apeswap-amm.png"
+  },
+  {
+    "volume24h": 66493862,
+    "index": 3,
+    "network": "Etherum",
+    "volume24hCap": 664938,
+    "type": "Dexes",
+    "name": "Balancer",
+    "logo": "https://icons.llama.fi/balancer.png"
+  },
+  {
+    "volume24h": 299339,
+    "index": 4,
+    "network": "Etherum",
+    "volume24hCap": 2993,
+    "type": "Dexes",
+    "name": "Bancor V2.1",
+    "logo": "https://icons.llama.fi/bancor.png"
+  },
+  {
+    "volume24h": 139,
+    "index": 5,
+    "network": "Etherum",
+    "volume24hCap": 1,
+    "type": "Dexes",
+    "name": "BXH",
+    "logo": "https://icons.llama.fi/bxh.jpg"
+  },
+  {
+    "volume24h": 181240,
+    "index": 6,
+    "network": "Etherum",
+    "volume24hCap": 1812,
+    "type": "Dexes",
+    "name": "Clipper",
+    "logo": "https://icons.llama.fi/clipper.jpg"
+  },
+  {
+    "volume24h": 307773322,
+    "index": 7,
+    "network": "Etherum",
+    "volume24hCap": 3077733,
+    "type": "Dexes",
+    "name": "Curve",
+    "logo": "https://icons.llama.fi/curve.png"
+  },
+  {
+    "volume24h": 493085,
+    "index": 8,
+    "network": "Etherum",
+    "volume24hCap": 4930,
+    "type": "Dexes",
+    "name": "Defi Swap",
+    "logo": "https://icons.llama.fi/defi-swap.jpg"
+  },
+  {
+    "volume24h": 42706,
+    "index": 9,
+    "network": "Etherum",
+    "volume24hCap": 427,
+    "type": "Dexes",
+    "name": "DefiPlaza",
+    "logo": "https://icons.llama.fi/defiplaza.svg"
+  },
+  {
+    "volume24h": 1168,
+    "index": 10,
+    "network": "Etherum",
+    "volume24hCap": 11,
+    "type": "Dexes",
+    "name": "DFX Finance",
+    "logo": "https://icons.llama.fi/dfx-finance.jpg"
+  },
+  {
+    "volume24h": 132854210,
+    "index": 11,
+    "network": "Etherum",
+    "volume24hCap": 1328542,
+    "type": "Dexes",
+    "name": "DODO",
+    "logo": "https://icons.llama.fi/dodo.png"
+  },
+  {
+    "volume24h": 4976,
+    "index": 12,
+    "network": "Etherum",
+    "volume24hCap": 49,
+    "type": "Dexes",
+    "name": "Elk",
+    "logo": "https://icons.llama.fi/elk.jpg"
+  },
+  {
+    "volume24h": 541599,
+    "index": 13,
+    "network": "Etherum",
+    "volume24hCap": 5415,
+    "type": "Dexes",
+    "name": "Frax Swap",
+    "logo": "https://icons.llama.fi/frax.jpg"
+  },
+  {
+    "volume24h": 13800954,
+    "index": 14,
+    "network": "Etherum",
+    "volume24hCap": 138009,
+    "type": "Dexes",
+    "name": "Hashflow",
+    "logo": "https://icons.llama.fi/hashflow.png"
+  },
+  {
+    "volume24h": 2852309,
+    "index": 15,
+    "network": "Etherum",
+    "volume24hCap": 28523,
+    "type": "Dexes",
+    "name": "KyberSwap",
+    "logo": "https://icons.llama.fi/kyberswap.png"
+  },
+  {
+    "volume24h": 107915,
+    "index": 16,
+    "network": "Etherum",
+    "volume24hCap": 1079,
+    "type": "Dexes",
+    "name": "MooniSwap",
+    "logo": "https://icons.llama.fi/mooniswap.jpg"
+  },
+  {
+    "volume24h": 3086,
+    "index": 17,
+    "network": "Etherum",
+    "volume24hCap": 30,
+    "type": "Dexes",
+    "name": "OpenLeverage",
+    "logo": "https://icons.llama.fi/openleverage.jpg"
+  },
+  {
+    "volume24h": 380535,
+    "index": 18,
+    "network": "Etherum",
+    "volume24hCap": 3805,
+    "type": "Dexes",
+    "name": "PancakeSwap",
+    "logo": "https://icons.llama.fi/pancakeswap.jpg"
+  },
+  {
+    "volume24h": 6036,
+    "index": 19,
+    "network": "Etherum",
+    "volume24hCap": 60,
+    "type": "Dexes",
+    "name": "RadioShack",
+    "logo": "https://icons.llama.fi/radioshack.png"
+  },
+  {
+    "volume24h": 2855,
+    "index": 20,
+    "network": "Etherum",
+    "volume24hCap": 28,
+    "type": "Dexes",
+    "name": "Saddle Finance",
+    "logo": "https://icons.llama.fi/saddle-finance.jpg"
+  },
+  {
+    "volume24h": 2723793,
+    "index": 21,
+    "network": "Etherum",
+    "volume24hCap": 27237,
+    "type": "Dexes",
+    "name": "ShibaSwap",
+    "logo": "https://icons.llama.fi/shibaswap.jpg"
+  },
+  {
+    "volume24h": 26494183,
+    "index": 22,
+    "network": "Etherum",
+    "volume24hCap": 264941,
+    "type": "Dexes",
+    "name": "SushiSwap",
+    "logo": "https://icons.llama.fi/sushiswap.png"
+  },
+  {
+    "volume24h": 21759,
+    "index": 23,
+    "network": "Etherum",
+    "volume24hCap": 217,
+    "type": "Dexes",
+    "name": "Swapr",
+    "logo": "https://icons.llama.fi/swapr.svg"
+  },
+  {
+    "volume24h": 153088,
+    "index": 24,
+    "network": "Etherum",
+    "volume24hCap": 1530,
+    "type": "Dexes",
+    "name": "TempleDAO Trade",
+    "logo": "https://icons.llama.fi/temple-dao.png"
+  },
+  {
+    "volume24h": 4869,
+    "index": 25,
+    "network": "Etherum",
+    "volume24hCap": 48,
+    "type": "Dexes",
+    "name": "Unicly",
+    "logo": "https://icons.llama.fi/unicly.png"
+  },
+  {
+    "volume24h": 13,
+    "index": 26,
+    "network": "Etherum",
+    "volume24hCap": 0,
+    "type": "Dexes",
+    "name": "UniFi",
+    "logo": "https://icons.llama.fi/unifi.jpg"
+  },
+  {
+    "volume24h": 583418629,
+    "index": 27,
+    "network": "Etherum",
+    "volume24hCap": 5834186,
+    "type": "Dexes",
+    "name": "Uniswap",
+    "logo": "https://icons.llama.fi/uniswap-v1.png"
+  },
+  {
+    "volume24h": 1662,
+    "index": 28,
+    "network": "Etherum",
+    "volume24hCap": 16,
+    "type": "Dexes",
+    "name": "WardenSwap",
+    "logo": "https://icons.llama.fi/wardenswap.jpg"
+  },
+  {
+    "volume24h": 1050,
+    "index": 29,
+    "network": "Etherum",
+    "volume24hCap": 10,
+    "type": "Dexes",
+    "name": "Yoshi Exchange",
+    "logo": "https://icons.llama.fi/yoshi-exchange.jpg"
+  },
+  {
+    "volume24h": 2416603,
+    "index": 30,
+    "network": "Optimism",
+    "volume24hCap": 24166,
+    "type": "Dexes",
+    "name": "Beethoven X",
+    "logo": "https://icons.llama.fi/beethoven-x.png"
+  },
+  {
+    "volume24h": 71297,
+    "index": 31,
+    "network": "Optimism",
+    "volume24hCap": 712,
+    "type": "Dexes",
+    "name": "Clipper",
+    "logo": "https://icons.llama.fi/clipper.jpg"
+  },
+  {
+    "volume24h": 3831457,
+    "index": 32,
+    "network": "Optimism",
+    "volume24hCap": 38314,
+    "type": "Dexes",
+    "name": "Curve",
+    "logo": "https://icons.llama.fi/curve.png"
+  },
+  {
+    "volume24h": 476,
+    "index": 33,
+    "network": "Optimism",
+    "volume24hCap": 4,
+    "type": "Dexes",
+    "name": "Elk",
+    "logo": "https://icons.llama.fi/elk.jpg"
+  },
+  {
+    "volume24h": 469418,
+    "index": 34,
+    "network": "Optimism",
+    "volume24hCap": 4694,
+    "type": "Dexes",
+    "name": "Hashflow",
+    "logo": "https://icons.llama.fi/hashflow.png"
+  },
+  {
+    "volume24h": 2244648,
+    "index": 35,
+    "network": "Optimism",
+    "volume24hCap": 22446,
+    "type": "Dexes",
+    "name": "KyberSwap",
+    "logo": "https://icons.llama.fi/kyberswap.png"
+  },
+  {
+    "volume24h": 23683353,
+    "index": 36,
+    "network": "Optimism",
+    "volume24hCap": 236833,
+    "type": "Dexes",
+    "name": "Uniswap",
+    "logo": "https://icons.llama.fi/uniswap-v1.png"
+  },
+  {
+    "volume24h": 8441993,
+    "index": 37,
+    "network": "Optimism",
+    "volume24hCap": 84419,
+    "type": "Dexes",
+    "name": "Velodrome",
+    "logo": "https://icons.llama.fi/velodrome.png"
+  },
+  {
+    "volume24h": 5173,
+    "index": 38,
+    "network": "Optimism",
+    "volume24hCap": 51,
+    "type": "Dexes",
+    "name": "WardenSwap",
+    "logo": "https://icons.llama.fi/wardenswap.jpg"
+  },
+  {
+    "volume24h": 10387,
+    "index": 39,
+    "network": "Optimism",
+    "volume24hCap": 103,
+    "type": "Dexes",
+    "name": "ZipSwap",
+    "logo": "https://icons.llama.fi/zipswap.jpg"
+  },
+  {
+    "volume24h": 616804,
+    "index": 40,
+    "network": "Arbitrum",
+    "volume24hCap": 6168,
+    "type": "Dexes",
+    "name": "3xcalibur",
+    "logo": "https://icons.llama.fi/3xcalibur.png"
+  },
+  {
+    "volume24h": 1159049,
+    "index": 41,
+    "network": "Arbitrum",
+    "volume24hCap": 11590,
+    "type": "Dexes",
+    "name": "Balancer",
+    "logo": "https://icons.llama.fi/balancer.png"
+  },
+  {
+    "volume24h": 7887073,
+    "index": 42,
+    "network": "Arbitrum",
+    "volume24hCap": 78870,
+    "type": "Dexes",
+    "name": "Curve",
+    "logo": "https://icons.llama.fi/curve.png"
+  },
+  {
+    "volume24h": 1278139,
+    "index": 43,
+    "network": "Arbitrum",
+    "volume24hCap": 12781,
+    "type": "Dexes",
+    "name": "DODO",
+    "logo": "https://icons.llama.fi/dodo.png"
+  },
+  {
+    "volume24h": 1655,
+    "index": 44,
+    "network": "Arbitrum",
+    "volume24hCap": 16,
+    "type": "Dexes",
+    "name": "Elk",
+    "logo": "https://icons.llama.fi/elk.jpg"
+  },
+  {
+    "volume24h": 52357,
+    "index": 45,
+    "network": "Arbitrum",
+    "volume24hCap": 523,
+    "type": "Dexes",
+    "name": "Frax Swap",
+    "logo": "https://icons.llama.fi/frax.jpg"
+  },
+  {
+    "volume24h": 6333874,
+    "index": 46,
+    "network": "Arbitrum",
+    "volume24hCap": 63338,
+    "type": "Derivatives",
+    "name": "GMX",
+    "logo": "https://icons.llama.fi/gmx.png"
+  },
+  {
+    "volume24h": 1474899,
+    "index": 47,
+    "network": "Arbitrum",
+    "volume24hCap": 14748,
+    "type": "Dexes",
+    "name": "Hashflow",
+    "logo": "https://icons.llama.fi/hashflow.png"
+  },
+  {
+    "volume24h": 2733706,
+    "index": 48,
+    "network": "Arbitrum",
+    "volume24hCap": 27337,
+    "type": "Dexes",
+    "name": "KyberSwap",
+    "logo": "https://icons.llama.fi/kyberswap.png"
+  },
+  {
+    "volume24h": 846156,
+    "index": 49,
+    "network": "Arbitrum",
+    "volume24hCap": 8461,
+    "type": "Dexes",
+    "name": "Saddle Finance",
+    "logo": "https://icons.llama.fi/saddle-finance.jpg"
+  },
+  {
+    "volume24h": 3691413,
+    "index": 50,
+    "network": "Arbitrum",
+    "volume24hCap": 36914,
+    "type": "Dexes",
+    "name": "SushiSwap",
+    "logo": "https://icons.llama.fi/sushiswap.png"
+  },
+  {
+    "volume24h": 17798,
+    "index": 51,
+    "network": "Arbitrum",
+    "volume24hCap": 177,
+    "type": "Dexes",
+    "name": "Swapr",
+    "logo": "https://icons.llama.fi/swapr.svg"
+  },
+  {
+    "volume24h": 46491784,
+    "index": 52,
+    "network": "Arbitrum",
+    "volume24hCap": 464917,
+    "type": "Dexes",
+    "name": "Uniswap",
+    "logo": "https://icons.llama.fi/uniswap-v1.png"
+  },
+  {
+    "volume24h": 23898,
+    "index": 53,
+    "network": "Arbitrum",
+    "volume24hCap": 238,
+    "type": "Dexes",
+    "name": "WardenSwap",
+    "logo": "https://icons.llama.fi/wardenswap.jpg"
+  },
+  {
+    "volume24h": 244963,
+    "index": 54,
+    "network": "Arbitrum",
+    "volume24hCap": 2449,
+    "type": "Dexes",
+    "name": "WOOFi",
+    "logo": "https://icons.llama.fi/woofi.png"
+  },
+  {
+    "volume24h": 29805,
+    "index": 55,
+    "network": "Polygon",
+    "volume24hCap": 298,
+    "type": "Dexes",
+    "name": "0x",
+    "logo": "https://icons.llama.fi/0x.png"
+  },
+  {
+    "volume24h": 746555,
+    "index": 56,
+    "network": "Polygon",
+    "volume24hCap": 7465,
+    "type": "Dexes",
+    "name": "ApeSwap AMM",
+    "logo": "https://icons.llama.fi/apeswap-amm.png"
+  },
+  {
+    "volume24h": 28,
+    "index": 57,
+    "network": "Polygon",
+    "volume24hCap": 0,
+    "type": "Dexes",
+    "name": "AuraSwap",
+    "logo": "https://icons.llama.fi/auraswap.png"
+  },
+  {
+    "volume24h": 2532365,
+    "index": 58,
+    "network": "Polygon",
+    "volume24hCap": 25323,
+    "type": "Dexes",
+    "name": "Balancer",
+    "logo": "https://icons.llama.fi/balancer.png"
+  },
+  {
+    "volume24h": 91823,
+    "index": 59,
+    "network": "Polygon",
+    "volume24hCap": 918,
+    "type": "Dexes",
+    "name": "Bogged Finance",
+    "logo": "https://icons.llama.fi/bogged-finance.jpg"
+  },
+  {
+    "volume24h": 70389,
+    "index": 60,
+    "network": "Polygon",
+    "volume24hCap": 703,
+    "type": "Dexes",
+    "name": "Clipper",
+    "logo": "https://icons.llama.fi/clipper.jpg"
+  },
+  {
+    "volume24h": 8582,
+    "index": 61,
+    "network": "Polygon",
+    "volume24hCap": 85,
+    "type": "Dexes",
+    "name": "Cometh",
+    "logo": "https://icons.llama.fi/cometh.jpg"
+  },
+  {
+    "volume24h": 3134791,
+    "index": 62,
+    "network": "Polygon",
+    "volume24hCap": 31347,
+    "type": "Dexes",
+    "name": "Curve",
+    "logo": "https://icons.llama.fi/curve.png"
+  },
+  {
+    "volume24h": 1999,
+    "index": 63,
+    "network": "Polygon",
+    "volume24hCap": 19,
+    "type": "Dexes",
+    "name": "DFX Finance",
+    "logo": "https://icons.llama.fi/dfx-finance.jpg"
+  },
+  {
+    "volume24h": 275319,
+    "index": 64,
+    "network": "Polygon",
+    "volume24hCap": 2753,
+    "type": "Dexes",
+    "name": "Dfyn Network",
+    "logo": "https://icons.llama.fi/dfyn-network.jpg"
+  },
+  {
+    "volume24h": 3561077,
+    "index": 65,
+    "network": "Polygon",
+    "volume24hCap": 35610,
+    "type": "Dexes",
+    "name": "DODO",
+    "logo": "https://icons.llama.fi/dodo.png"
+  },
+  {
+    "volume24h": 219151,
+    "index": 66,
+    "network": "Polygon",
+    "volume24hCap": 2191,
+    "type": "Dexes",
+    "name": "Dystopia",
+    "logo": "https://icons.llama.fi/dystopia.png"
+  },
+  {
+    "volume24h": 19272,
+    "index": 67,
+    "network": "Polygon",
+    "volume24hCap": 192,
+    "type": "Dexes",
+    "name": "Elk",
+    "logo": "https://icons.llama.fi/elk.jpg"
+  },
+  {
+    "volume24h": 27,
+    "index": 68,
+    "network": "Polygon",
+    "volume24hCap": 0,
+    "type": "Dexes",
+    "name": "EmpireDEX",
+    "logo": "https://icons.llama.fi/empire-dex.jpg"
+  },
+  {
+    "volume24h": 32927,
+    "index": 69,
+    "network": "Polygon",
+    "volume24hCap": 329,
+    "type": "Dexes",
+    "name": "Frax Swap",
+    "logo": "https://icons.llama.fi/frax.jpg"
+  },
+  {
+    "volume24h": 12809,
+    "index": 70,
+    "network": "Polygon",
+    "volume24hCap": 128,
+    "type": "Dexes",
+    "name": "Gravis Finance",
+    "logo": "https://icons.llama.fi/gravis-finance.png"
+  },
+  {
+    "volume24h": 3273,
+    "index": 71,
+    "network": "Polygon",
+    "volume24hCap": 32,
+    "type": "Dexes",
+    "name": "Gravity Finance",
+    "logo": "https://icons.llama.fi/gravity-finance.png"
+  },
+  {
+    "volume24h": 1884328,
+    "index": 72,
+    "network": "Polygon",
+    "volume24hCap": 18843,
+    "type": "Dexes",
+    "name": "Hashflow",
+    "logo": "https://icons.llama.fi/hashflow.png"
+  },
+  {
+    "volume24h": 1268,
+    "index": 73,
+    "network": "Polygon",
+    "volume24hCap": 12,
+    "type": "Dexes",
+    "name": "Honeyswap",
+    "logo": "https://icons.llama.fi/honeyswap.png"
+  },
+  {
+    "volume24h": 7477328,
+    "index": 74,
+    "network": "Polygon",
+    "volume24hCap": 74773,
+    "type": "Dexes",
+    "name": "KyberSwap",
+    "logo": "https://icons.llama.fi/kyberswap.png"
+  },
+  {
+    "volume24h": 1250265,
+    "index": 75,
+    "network": "Polygon",
+    "volume24hCap": 12502,
+    "type": "Dexes",
+    "name": "Meshswap",
+    "logo": "https://icons.llama.fi/meshswap.png"
+  },
+  {
+    "volume24h": 409373,
+    "index": 76,
+    "network": "Polygon",
+    "volume24hCap": 4093,
+    "type": "Dexes",
+    "name": "MM Stableswap Polygon",
+    "logo": "https://icons.llama.fi/mm-stableswap-polygon.jpg"
+  },
+  {
+    "volume24h": 24591,
+    "index": 77,
+    "network": "Polygon",
+    "volume24hCap": 245,
+    "type": "Dexes",
+    "name": "Polycat",
+    "logo": "https://icons.llama.fi/polycat.png"
+  },
+  {
+    "volume24h": 19298473,
+    "index": 78,
+    "network": "Polygon",
+    "volume24hCap": 192984,
+    "type": "Dexes",
+    "name": "Quickswap Dex",
+    "logo": "https://icons.llama.fi/quickswap-dex.jpg"
+  },
+  {
+    "volume24h": 75967,
+    "index": 79,
+    "network": "Polygon",
+    "volume24hCap": 759,
+    "type": "Dexes",
+    "name": "RadioShack",
+    "logo": "https://icons.llama.fi/radioshack.png"
+  },
+  {
+    "volume24h": 2272,
+    "index": 80,
+    "network": "Polygon",
+    "volume24hCap": 22,
+    "type": "Dexes",
+    "name": "SmartDEX",
+    "logo": "https://icons.llama.fi/smartdex.jpg"
+  },
+  {
+    "volume24h": 1217298,
+    "index": 81,
+    "network": "Polygon",
+    "volume24hCap": 12172,
+    "type": "Dexes",
+    "name": "SushiSwap",
+    "logo": "https://icons.llama.fi/sushiswap.png"
+  },
+  {
+    "volume24h": 11553,
+    "index": 82,
+    "network": "Polygon",
+    "volume24hCap": 115,
+    "type": "Dexes",
+    "name": "Tetu Earn",
+    "logo": "https://icons.llama.fi/tetu.svg"
+  },
+  {
+    "volume24h": 5,
+    "index": 83,
+    "network": "Polygon",
+    "volume24hCap": 0,
+    "type": "Dexes",
+    "name": "UniFi",
+    "logo": "https://icons.llama.fi/unifi.jpg"
+  },
+  {
+    "volume24h": 85165076,
+    "index": 84,
+    "network": "Polygon",
+    "volume24hCap": 851650,
+    "type": "Dexes",
+    "name": "Uniswap",
+    "logo": "https://icons.llama.fi/uniswap-v1.png"
+  },
+  {
+    "volume24h": 60922,
+    "index": 85,
+    "network": "Polygon",
+    "volume24hCap": 609,
+    "type": "Dexes",
+    "name": "WardenSwap",
+    "logo": "https://icons.llama.fi/wardenswap.jpg"
+  },
+  {
+    "volume24h": 1543609,
+    "index": 86,
+    "network": "Polygon",
+    "volume24hCap": 15436,
+    "type": "Dexes",
+    "name": "WOOFi",
+    "logo": "https://icons.llama.fi/woofi.png"
+  },
+  {
+    "volume24h": 1487580,
+    "index": 87,
+    "network": "Fantom",
+    "volume24hCap": 14875,
+    "type": "Dexes",
+    "name": "Beethoven X",
+    "logo": "https://icons.llama.fi/beethoven-x.png"
+  },
+  {
+    "volume24h": 2217,
+    "index": 88,
+    "network": "Fantom",
+    "volume24hCap": 22,
+    "type": "Dexes",
+    "name": "Bogged Finance",
+    "logo": "https://icons.llama.fi/bogged-finance.jpg"
+  },
+  {
+    "volume24h": 667150,
+    "index": 89,
+    "network": "Fantom",
+    "volume24hCap": 6671,
+    "type": "Dexes",
+    "name": "Curve",
+    "logo": "https://icons.llama.fi/curve.png"
+  },
+  {
+    "volume24h": 4051,
+    "index": 90,
+    "network": "Fantom",
+    "volume24hCap": 40,
+    "type": "Dexes",
+    "name": "Elk",
+    "logo": "https://icons.llama.fi/elk.jpg"
+  },
+  {
+    "volume24h": 5388,
+    "index": 91,
+    "network": "Fantom",
+    "volume24hCap": 53,
+    "type": "Dexes",
+    "name": "Frax Swap",
+    "logo": "https://icons.llama.fi/frax.jpg"
+  },
+  {
+    "volume24h": 67289,
+    "index": 92,
+    "network": "Fantom",
+    "volume24hCap": 672,
+    "type": "Dexes",
+    "name": "KnightSwap Finance",
+    "logo": "https://icons.llama.fi/knightswap-finance.png"
+  },
+  {
+    "volume24h": 29052,
+    "index": 93,
+    "network": "Fantom",
+    "volume24hCap": 290,
+    "type": "Dexes",
+    "name": "KyberSwap",
+    "logo": "https://icons.llama.fi/kyberswap.png"
+  },
+  {
+    "volume24h": 2265,
+    "index": 94,
+    "network": "Fantom",
+    "volume24hCap": 22,
+    "type": "Dexes",
+    "name": "Morpheus Swap",
+    "logo": "https://icons.llama.fi/morpheus-swap.png"
+  },
+  {
+    "volume24h": 573,
+    "index": 95,
+    "network": "Fantom",
+    "volume24hCap": 5,
+    "type": "Dexes",
+    "name": "Paint Swap",
+    "logo": "https://icons.llama.fi/paint-swap.png"
+  },
+  {
+    "volume24h": 51753,
+    "index": 96,
+    "network": "Fantom",
+    "volume24hCap": 517,
+    "type": "Dexes",
+    "name": "ProtoFi",
+    "logo": "https://icons.llama.fi/protofi.jpg"
+  },
+  {
+    "volume24h": 2817,
+    "index": 97,
+    "network": "Fantom",
+    "volume24hCap": 28,
+    "type": "Dexes",
+    "name": "RadioShack",
+    "logo": "https://icons.llama.fi/radioshack.png"
+  },
+  {
+    "volume24h": 98203,
+    "index": 98,
+    "network": "Fantom",
+    "volume24hCap": 982,
+    "type": "Dexes",
+    "name": "Solidly",
+    "logo": "https://icons.llama.fi/solidly.jpg"
+  },
+  {
+    "volume24h": 17291,
+    "index": 99,
+    "network": "Fantom",
+    "volume24hCap": 172,
+    "type": "Dexes",
+    "name": "SoulSwap",
+    "logo": "https://icons.llama.fi/soulswap.png"
+  },
+  {
+    "volume24h": 148587,
+    "index": 100,
+    "network": "Fantom",
+    "volume24hCap": 1485,
+    "type": "Dexes",
+    "name": "Spartacus Exchange",
+    "logo": "https://icons.llama.fi/spartacus.jpg"
+  },
+  {
+    "volume24h": 265611,
+    "index": 101,
+    "network": "Fantom",
+    "volume24hCap": 2656,
+    "type": "Dexes",
+    "name": "SpiritSwap AMM",
+    "logo": "https://icons.llama.fi/spiritswap.jpg"
+  },
+  {
+    "volume24h": 5024652,
+    "index": 102,
+    "network": "Fantom",
+    "volume24hCap": 50246,
+    "type": "Dexes",
+    "name": "SpookySwap",
+    "logo": "https://icons.llama.fi/spookyswap.jpg"
+  },
+  {
+    "volume24h": 84506,
+    "index": 103,
+    "network": "Fantom",
+    "volume24hCap": 845,
+    "type": "Dexes",
+    "name": "SushiSwap",
+    "logo": "https://icons.llama.fi/sushiswap.png"
+  },
+  {
+    "volume24h": 610933,
+    "index": 104,
+    "network": "Fantom",
+    "volume24hCap": 6109,
+    "type": "Dexes",
+    "name": "Tomb Swap",
+    "logo": "https://icons.llama.fi/tomb-finance.jpg"
+  },
+  {
+    "volume24h": 4,
+    "index": 105,
+    "network": "Fantom",
+    "volume24hCap": 0,
+    "type": "Dexes",
+    "name": "WhaleSwap",
+    "logo": "https://icons.llama.fi/whaleswap.png"
+  },
+  {
+    "volume24h": 68380,
+    "index": 106,
+    "network": "Fantom",
+    "volume24hCap": 683,
+    "type": "Dexes",
+    "name": "WigoSwap",
+    "logo": "https://icons.llama.fi/wigoswap.png"
+  },
+  {
+    "volume24h": 459243,
+    "index": 107,
+    "network": "Fantom",
+    "volume24hCap": 4592,
+    "type": "Dexes",
+    "name": "WOOFi",
+    "logo": "https://icons.llama.fi/woofi.png"
+  },
+  {
+    "volume24h": 17199,
+    "index": 108,
+    "network": "Fantom",
+    "volume24hCap": 171,
+    "type": "Dexes",
+    "name": "Yoshi Exchange",
+    "logo": "https://icons.llama.fi/yoshi-exchange.jpg"
+  },
+  {
+    "volume24h": 7244,
+    "index": 109,
+    "network": "BSC",
+    "volume24hCap": 72,
+    "type": "Dexes",
+    "name": "Alita Finance",
+    "logo": "https://icons.llama.fi/alita-finance.png"
+  },
+  {
+    "volume24h": 1548716,
+    "index": 110,
+    "network": "BSC",
+    "volume24hCap": 15487,
+    "type": "Dexes",
+    "name": "ApeSwap AMM",
+    "logo": "https://icons.llama.fi/apeswap-amm.png"
+  },
+  {
+    "volume24h": 958,
+    "index": 111,
+    "network": "BSC",
+    "volume24hCap": 9,
+    "type": "Dexes",
+    "name": "AutoShark",
+    "logo": "https://icons.llama.fi/autoshark.png"
+  },
+  {
+    "volume24h": 133167,
+    "index": 112,
+    "network": "BSC",
+    "volume24hCap": 1331,
+    "type": "Dexes",
+    "name": "BabyDogeSwap",
+    "logo": "https://icons.llama.fi/babydogeswap.jpg"
+  },
+  {
+    "volume24h": 376690,
+    "index": 113,
+    "network": "BSC",
+    "volume24hCap": 3766,
+    "type": "Dexes",
+    "name": "BabySwap",
+    "logo": "https://icons.llama.fi/babyswap.png"
+  },
+  {
+    "volume24h": 10017802,
+    "index": 114,
+    "network": "BSC",
+    "volume24hCap": 100178,
+    "type": "Dexes",
+    "name": "BiSwap",
+    "logo": "https://icons.llama.fi/biswap.jpg"
+  },
+  {
+    "volume24h": 45949,
+    "index": 115,
+    "network": "BSC",
+    "volume24hCap": 459,
+    "type": "Dexes",
+    "name": "Blue Planet",
+    "logo": "https://icons.llama.fi/planet-finance.png"
+  },
+  {
+    "volume24h": 3112350,
+    "index": 116,
+    "network": "BSC",
+    "volume24hCap": 31123,
+    "type": "Dexes",
+    "name": "Bogged Finance",
+    "logo": "https://icons.llama.fi/bogged-finance.jpg"
+  },
+  {
+    "volume24h": 433,
+    "index": 117,
+    "network": "BSC",
+    "volume24hCap": 4,
+    "type": "Dexes",
+    "name": "BXH",
+    "logo": "https://icons.llama.fi/bxh.jpg"
+  },
+  {
+    "volume24h": 0,
+    "index": 118,
+    "network": "BSC",
+    "volume24hCap": 0,
+    "type": "Dexes",
+    "name": "ChampagneSwap",
+    "logo": "https://icons.llama.fi/champagneswap.png"
+  },
+  {
+    "volume24h": 41,
+    "index": 119,
+    "network": "BSC",
+    "volume24hCap": 0,
+    "type": "Dexes",
+    "name": "Complus Network",
+    "logo": "https://icons.llama.fi/complus-network.png"
+  },
+  {
+    "volume24h": 55475,
+    "index": 120,
+    "network": "BSC",
+    "volume24hCap": 554,
+    "type": "Dexes",
+    "name": "Cone",
+    "logo": "https://icons.llama.fi/cone.png"
+  },
+  {
+    "volume24h": 9772,
+    "index": 121,
+    "network": "BSC",
+    "volume24hCap": 97,
+    "type": "Dexes",
+    "name": "DAO Swap",
+    "logo": "https://icons.llama.fi/dao-maker.jpg"
+  },
+  {
+    "volume24h": 10613,
+    "index": 122,
+    "network": "BSC",
+    "volume24hCap": 106,
+    "type": "Dexes",
+    "name": "Dinosaur Eggs",
+    "logo": "https://icons.llama.fi/dinosaur-eggs.svg"
+  },
+  {
+    "volume24h": 16247177,
+    "index": 123,
+    "network": "BSC",
+    "volume24hCap": 162471,
+    "type": "Dexes",
+    "name": "DODO",
+    "logo": "https://icons.llama.fi/dodo.png"
+  },
+  {
+    "volume24h": 25625,
+    "index": 124,
+    "network": "BSC",
+    "volume24hCap": 256,
+    "type": "Dexes",
+    "name": "Elk",
+    "logo": "https://icons.llama.fi/elk.jpg"
+  },
+  {
+    "volume24h": 1813087,
+    "index": 125,
+    "network": "BSC",
+    "volume24hCap": 18130,
+    "type": "Dexes",
+    "name": "Ellipsis Finance",
+    "logo": "https://icons.llama.fi/ellipsis-finance.jpg"
+  },
+  {
+    "volume24h": 17,
+    "index": 126,
+    "network": "BSC",
+    "volume24hCap": 0,
+    "type": "Dexes",
+    "name": "EmpireDEX",
+    "logo": "https://icons.llama.fi/empire-dex.jpg"
+  },
+  {
+    "volume24h": 52625,
+    "index": 127,
+    "network": "BSC",
+    "volume24hCap": 526,
+    "type": "Dexes",
+    "name": "Frax Swap",
+    "logo": "https://icons.llama.fi/frax.jpg"
+  },
+  {
+    "volume24h": 6132,
+    "index": 128,
+    "network": "BSC",
+    "volume24hCap": 61,
+    "type": "Dexes",
+    "name": "Gravis Finance",
+    "logo": "https://icons.llama.fi/gravis-finance.png"
+  },
+  {
+    "volume24h": 4621429,
+    "index": 129,
+    "network": "BSC",
+    "volume24hCap": 46214,
+    "type": "Dexes",
+    "name": "Hashflow",
+    "logo": "https://icons.llama.fi/hashflow.png"
+  },
+  {
+    "volume24h": 1929019,
+    "index": 130,
+    "network": "BSC",
+    "volume24hCap": 19290,
+    "type": "Dexes",
+    "name": "iziSwap",
+    "logo": "https://icons.llama.fi/iziswap.png"
+  },
+  {
+    "volume24h": 44401,
+    "index": 131,
+    "network": "BSC",
+    "volume24hCap": 444,
+    "type": "Dexes",
+    "name": "JetSwap",
+    "logo": "https://icons.llama.fi/jetswap.png"
+  },
+  {
+    "volume24h": 965298,
+    "index": 132,
+    "network": "BSC",
+    "volume24hCap": 9652,
+    "type": "Dexes",
+    "name": "KnightSwap Finance",
+    "logo": "https://icons.llama.fi/knightswap-finance.png"
+  },
+  {
+    "volume24h": 46460,
+    "index": 133,
+    "network": "BSC",
+    "volume24hCap": 464,
+    "type": "Dexes",
+    "name": "KyberSwap",
+    "logo": "https://icons.llama.fi/kyberswap.png"
+  },
+  {
+    "volume24h": 42267,
+    "index": 134,
+    "network": "BSC",
+    "volume24hCap": 422,
+    "type": "Dexes",
+    "name": "LeonicornSwap",
+    "logo": "https://icons.llama.fi/leonicornswap.jpg"
+  },
+  {
+    "volume24h": 582132,
+    "index": 135,
+    "network": "BSC",
+    "volume24hCap": 5821,
+    "type": "Dexes",
+    "name": "MDEX",
+    "logo": "https://icons.llama.fi/mdex.png"
+  },
+  {
+    "volume24h": 833129,
+    "index": 136,
+    "network": "BSC",
+    "volume24hCap": 8331,
+    "type": "Dexes",
+    "name": "MetaTdex",
+    "logo": "https://icons.llama.fi/metatdex.png"
+  },
+  {
+    "volume24h": 535594,
+    "index": 137,
+    "network": "BSC",
+    "volume24hCap": 5355,
+    "type": "Dexes",
+    "name": "Nomiswap",
+    "logo": "https://icons.llama.fi/nomiswap.png"
+  },
+  {
+    "volume24h": 93439,
+    "index": 138,
+    "network": "BSC",
+    "volume24hCap": 934,
+    "type": "Dexes",
+    "name": "OpenLeverage",
+    "logo": "https://icons.llama.fi/openleverage.jpg"
+  },
+  {
+    "volume24h": 1030,
+    "index": 139,
+    "network": "BSC",
+    "volume24hCap": 10,
+    "type": "Dexes",
+    "name": "PadSwap",
+    "logo": "https://icons.llama.fi/padswap.svg"
+  },
+  {
+    "volume24h": 232919504,
+    "index": 140,
+    "network": "BSC",
+    "volume24hCap": 2329195,
+    "type": "Dexes",
+    "name": "PancakeSwap",
+    "logo": "https://icons.llama.fi/pancakeswap.jpg"
+  },
+  {
+    "volume24h": 12300,
+    "index": 141,
+    "network": "BSC",
+    "volume24hCap": 123,
+    "type": "Dexes",
+    "name": "Pandora Swap",
+    "logo": "https://icons.llama.fi/pandora-swap.jpg"
+  },
+  {
+    "volume24h": 64,
+    "index": 142,
+    "network": "BSC",
+    "volume24hCap": 0,
+    "type": "Dexes",
+    "name": "PinkSwap",
+    "logo": "https://icons.llama.fi/pinkswap.png"
+  },
+  {
+    "volume24h": 1838,
+    "index": 143,
+    "network": "BSC",
+    "volume24hCap": 18,
+    "type": "Dexes",
+    "name": "PYEswap",
+    "logo": "https://icons.llama.fi/pyeswap.jpg"
+  },
+  {
+    "volume24h": 61502,
+    "index": 144,
+    "network": "BSC",
+    "volume24hCap": 615,
+    "type": "Dexes",
+    "name": "RadioShack",
+    "logo": "https://icons.llama.fi/radioshack.png"
+  },
+  {
+    "volume24h": 31393,
+    "index": 145,
+    "network": "BSC",
+    "volume24hCap": 313,
+    "type": "Dexes",
+    "name": "Spartan",
+    "logo": "https://icons.llama.fi/spartan.png"
+  },
+  {
+    "volume24h": 15717,
+    "index": 146,
+    "network": "BSC",
+    "volume24hCap": 157,
+    "type": "Dexes",
+    "name": "Sphynx",
+    "logo": "https://icons.llama.fi/sphynx.png"
+  },
+  {
+    "volume24h": 24776,
+    "index": 147,
+    "network": "BSC",
+    "volume24hCap": 247,
+    "type": "Dexes",
+    "name": "SushiSwap",
+    "logo": "https://icons.llama.fi/sushiswap.png"
+  },
+  {
+    "volume24h": 1358122,
+    "index": 148,
+    "network": "BSC",
+    "volume24hCap": 13581,
+    "type": "Dexes",
+    "name": "Titano Swych",
+    "logo": "https://icons.llama.fi/titano-swych.jpg"
+  },
+  {
+    "volume24h": 2243,
+    "index": 149,
+    "network": "BSC",
+    "volume24hCap": 22,
+    "type": "Dexes",
+    "name": "UniFi",
+    "logo": "https://icons.llama.fi/unifi.jpg"
+  },
+  {
+    "volume24h": 49608,
+    "index": 150,
+    "network": "BSC",
+    "volume24hCap": 496,
+    "type": "Dexes",
+    "name": "WardenSwap",
+    "logo": "https://icons.llama.fi/wardenswap.jpg"
+  },
+  {
+    "volume24h": 195,
+    "index": 151,
+    "network": "BSC",
+    "volume24hCap": 1,
+    "type": "Dexes",
+    "name": "WhaleSwap",
+    "logo": "https://icons.llama.fi/whaleswap.png"
+  },
+  {
+    "volume24h": 18053,
+    "index": 152,
+    "network": "BSC",
+    "volume24hCap": 180,
+    "type": "Dexes",
+    "name": "WinerySwap",
+    "logo": "https://icons.llama.fi/wineryswap.jpg"
+  },
+  {
+    "volume24h": 21492884,
+    "index": 153,
+    "network": "BSC",
+    "volume24hCap": 214928,
+    "type": "Dexes",
+    "name": "Wombat Exchange",
+    "logo": "https://icons.llama.fi/wombat-exchange.png"
+  },
+  {
+    "volume24h": 1164558,
+    "index": 154,
+    "network": "BSC",
+    "volume24hCap": 11645,
+    "type": "Dexes",
+    "name": "WOOFi",
+    "logo": "https://icons.llama.fi/woofi.png"
+  },
+  {
+    "volume24h": 10287,
+    "index": 155,
+    "network": "BSC",
+    "volume24hCap": 102,
+    "type": "Dexes",
+    "name": "Yoshi Exchange",
+    "logo": "https://icons.llama.fi/yoshi-exchange.jpg"
+  },
+  {
+    "volume24h": 9926,
+    "index": 156,
+    "network": "Aurora",
+    "volume24hCap": 99,
+    "type": "Dexes",
+    "name": "DODO",
+    "logo": "https://icons.llama.fi/dodo.png"
+  },
+  {
+    "volume24h": 0,
+    "index": 157,
+    "network": "Aurora",
+    "volume24hCap": 0,
+    "type": "Dexes",
+    "name": "Frax Swap",
+    "logo": "https://icons.llama.fi/frax.jpg"
+  },
+  {
+    "volume24h": 1,
+    "index": 158,
+    "network": "Aurora",
+    "volume24hCap": 0,
+    "type": "Dexes",
+    "name": "KyberSwap",
+    "logo": "https://icons.llama.fi/kyberswap.png"
+  },
+  {
+    "volume24h": 98521,
+    "index": 159,
+    "network": "Solana",
+    "volume24hCap": 985,
+    "type": "Dexes",
+    "name": "Aldrin",
+    "logo": "https://icons.llama.fi/aldrin.png"
+  },
+  {
+    "volume24h": 4789,
+    "index": 160,
+    "network": "Solana",
+    "volume24hCap": 47,
+    "type": "Dexes",
+    "name": "Crema Finance",
+    "logo": "https://icons.llama.fi/crema-finance.png"
+  },
+  {
+    "volume24h": 141383,
+    "index": 161,
+    "network": "Solana",
+    "volume24hCap": 1413,
+    "type": "Dexes",
+    "name": "GooseFX",
+    "logo": "https://icons.llama.fi/goosefx.jpg"
+  },
+  {
+    "volume24h": 3447590,
+    "index": 162,
+    "network": "Solana",
+    "volume24hCap": 34475,
+    "type": "Dexes",
+    "name": "Lifinity",
+    "logo": "https://icons.llama.fi/lifinity.jpg"
+  },
+  {
+    "volume24h": 16531219,
+    "index": 163,
+    "network": "Solana",
+    "volume24hCap": 165312,
+    "type": "Dexes",
+    "name": "Orca",
+    "logo": "https://icons.llama.fi/orca.jpg"
+  },
+  {
+    "volume24h": 2609,
+    "index": 164,
+    "network": "Solana",
+    "volume24hCap": 26,
+    "type": "Dexes",
+    "name": "Penguin",
+    "logo": "https://icons.llama.fi/penguin.png"
+  },
+  {
+    "volume24h": 6281704,
+    "index": 165,
+    "network": "Solana",
+    "volume24hCap": 62817,
+    "type": "Dexes",
+    "name": "Raydium",
+    "logo": "https://icons.llama.fi/raydium.jpg"
+  },
+  {
+    "volume24h": 34339818,
+    "index": 166,
+    "network": "Solana",
+    "volume24hCap": 343398,
+    "type": "Dexes",
+    "name": "Saber",
+    "logo": "https://icons.llama.fi/saber.jpg"
+  },
+  {
+    "volume24h": 232821,
+    "index": 167,
+    "network": "Solana",
+    "volume24hCap": 2328,
+    "type": "Dexes",
+    "name": "Serum",
+    "logo": "https://icons.llama.fi/serum.jpg"
+  },
+  {
+    "volume24h": 10289,
+    "index": 168,
+    "network": "Solana",
+    "volume24hCap": 102,
+    "type": "Dexes",
+    "name": "Synthetify",
+    "logo": "https://icons.llama.fi/synthetify.png"
+  },
+  {
+    "volume24h": 32840,
+    "index": 169,
+    "network": "Avalanche",
+    "volume24hCap": 328,
+    "type": "Dexes",
+    "name": "Bogged Finance",
+    "logo": "https://icons.llama.fi/bogged-finance.jpg"
+  },
+  {
+    "volume24h": 1228,
+    "index": 170,
+    "network": "Avalanche",
+    "volume24hCap": 12,
+    "type": "Dexes",
+    "name": "Complus Network",
+    "logo": "https://icons.llama.fi/complus-network.png"
+  },
+  {
+    "volume24h": 11513,
+    "index": 171,
+    "network": "Avalanche",
+    "volume24hCap": 115,
+    "type": "Dexes",
+    "name": "Elk",
+    "logo": "https://icons.llama.fi/elk.jpg"
+  },
+  {
+    "volume24h": 53,
+    "index": 172,
+    "network": "Avalanche",
+    "volume24hCap": 0,
+    "type": "Dexes",
+    "name": "EmpireDEX",
+    "logo": "https://icons.llama.fi/empire-dex.jpg"
+  },
+  {
+    "volume24h": 41492,
+    "index": 173,
+    "network": "Avalanche",
+    "volume24hCap": 414,
+    "type": "Dexes",
+    "name": "Frax Swap",
+    "logo": "https://icons.llama.fi/frax.jpg"
+  },
+  {
+    "volume24h": 5663256,
+    "index": 174,
+    "network": "Avalanche",
+    "volume24hCap": 56632,
+    "type": "Derivatives",
+    "name": "GMX",
+    "logo": "https://icons.llama.fi/gmx.png"
+  },
+  {
+    "volume24h": 2976,
+    "index": 175,
+    "network": "Avalanche",
+    "volume24hCap": 29,
+    "type": "Dexes",
+    "name": "HakuSwap",
+    "logo": "https://icons.llama.fi/hakuswap.jpg"
+  },
+  {
+    "volume24h": 6017328,
+    "index": 176,
+    "network": "Avalanche",
+    "volume24hCap": 60173,
+    "type": "Dexes",
+    "name": "Hashflow",
+    "logo": "https://icons.llama.fi/hashflow.png"
+  },
+  {
+    "volume24h": 6167752,
+    "index": 177,
+    "network": "Avalanche",
+    "volume24hCap": 61677,
+    "type": "Dexes",
+    "name": "KyberSwap",
+    "logo": "https://icons.llama.fi/kyberswap.png"
+  },
+  {
+    "volume24h": 1330289,
+    "index": 178,
+    "network": "Avalanche",
+    "volume24hCap": 13302,
+    "type": "Dexes",
+    "name": "Pangolin",
+    "logo": "https://icons.llama.fi/pangolin.png"
+  },
+  {
+    "volume24h": 8331943,
+    "index": 179,
+    "network": "Avalanche",
+    "volume24hCap": 83319,
+    "type": "Dexes",
+    "name": "Platypus Finance",
+    "logo": "https://icons.llama.fi/platypus.png"
+  },
+  {
+    "volume24h": 9410,
+    "index": 180,
+    "network": "Avalanche",
+    "volume24hCap": 94,
+    "type": "Dexes",
+    "name": "RadioShack",
+    "logo": "https://icons.llama.fi/radioshack.png"
+  },
+  {
+    "volume24h": 76532,
+    "index": 181,
+    "network": "Avalanche",
+    "volume24hCap": 765,
+    "type": "Dexes",
+    "name": "SushiSwap",
+    "logo": "https://icons.llama.fi/sushiswap.png"
+  },
+  {
+    "volume24h": 11867,
+    "index": 182,
+    "network": "Avalanche",
+    "volume24hCap": 118,
+    "type": "Dexes",
+    "name": "Swapsicle",
+    "logo": "https://icons.llama.fi/swapsicle.png"
+  },
+  {
+    "volume24h": 5001759,
+    "index": 183,
+    "network": "Avalanche",
+    "volume24hCap": 50017,
+    "type": "Dexes",
+    "name": "Trader Joe DEX",
+    "logo": "https://icons.llama.fi/trader-joe.png"
+  },
+  {
+    "volume24h": 71,
+    "index": 184,
+    "network": "Avalanche",
+    "volume24hCap": 0,
+    "type": "Dexes",
+    "name": "UniFi",
+    "logo": "https://icons.llama.fi/unifi.jpg"
+  },
+  {
+    "volume24h": 1632976,
+    "index": 185,
+    "network": "Avalanche",
+    "volume24hCap": 16329,
+    "type": "Dexes",
+    "name": "WOOFi",
+    "logo": "https://icons.llama.fi/woofi.png"
+  },
+  {
+    "volume24h": 8882,
+    "index": 186,
+    "network": "Heco",
+    "volume24hCap": 88,
+    "type": "Dexes",
+    "name": "MakiSwap",
+    "logo": "https://icons.llama.fi/makiswap.jpg"
+  },
+  {
+    "volume24h": 3660850,
+    "index": 187,
+    "network": "Heco",
+    "volume24hCap": 36608,
+    "type": "Dexes",
+    "name": "MDEX",
+    "logo": "https://icons.llama.fi/mdex.png"
+  },
+  {
+    "volume24h": 16782045,
+    "index": 188,
+    "network": "Heco",
+    "volume24hCap": 167820,
+    "type": "Dexes",
+    "name": "MetaTdex",
+    "logo": "https://icons.llama.fi/metatdex.png"
+  },
+  {
+    "volume24h": 17385289,
+    "index": 189,
+    "network": "Thorchain",
+    "volume24hCap": 173852,
+    "type": "Dexes",
+    "name": "THORSwap",
+    "logo": "https://icons.llama.fi/thorswap.jpg"
+  }
+]

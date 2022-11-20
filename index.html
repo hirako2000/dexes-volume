@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>DEXes Volume breakdown</title>
+<link rel="stylesheet" type="text/css" href="./inspector.css">
+
+<head>
+  <meta charset="utf-8">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Mono&display=swap" rel="stylesheet">
+<style>
+
+    svg {
+      margin-left: -4em;
+      margin-right: -4em;
+    }
+
+    h1 {
+      margin-top: 0em;
+      margin-bottom: 0.2em;
+    }
+
+    p {
+      margin-top: 0.2em;
+      margin-bottom: 0.2em;
+    }
+
+    body { 
+      margin:4em;
+      top:0;
+      right:0;
+      bottom:0;
+      left:0;
+      font-size: 1em;
+    	font-family: "Space Mono", monospace;
+      color: #37322e;
+      background-color: #e6e4e2;
+    }
+
+    .flex-center {
+      display: flex;
+      justify-content: center;
+      padding-bottom: 1em;
+      padding-top: 2em;
+    }
+
+    .flex-center > label {
+        padding-left: 2em;
+    }
+
+    .flex-center > .radio > input {
+        margin-right: 0.8em;
+        cursor: pointer;
+    }
+
+    .selected {
+      fill: none;
+    }
+
+    .observablehq--collapsed, .observablehq--inspect {
+      display: none;
+    }
+    
+
+    footer {
+      position: fixed;
+      bottom: 0.5em;
+      right: 1em;
+      text-decoration: overline;
+    }
+
+    a {
+      text-decoration: none;
+    }
+    
+    a:visited {
+      text-decoration: none;
+      color: #37322e;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    .radio:hover {
+      cursor: pointer;
+    }
+
+
+    @media screen and (max-width: 720px) {
+        svg {
+          margin-left: -1.5em;
+          margin-right: -1.5em;
+        }
+
+        body { 
+          margin:1.5em;
+          font-size: 1em;
+        }
+
+        h3 {
+            font-size: 2rem;
+        }
+    }
+  </style>
+</head>
+
+
+
+<body>
+  
+  <script type="module">
+
+  import define from "./index.js";
+  import {Runtime, Library, Inspector} from "./runtime.js";
+
+  const runtime = new Runtime();
+  const main = runtime.module(define, Inspector.into(document.body));
+
+  </script>
+
+  <h1> DEXs: A Volume breakdown by Market and Networks</h1>
+
+  <footer>
+    <a href="https://mtassoumt.uk">Hirako2000</a> | Data: <a href="https://defillama.com/">Defi Llama</a>
+  </footer>
+</body>
