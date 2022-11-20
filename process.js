@@ -238,7 +238,7 @@ const _html = async (require) => {
   )
 }
 
-export default define = (runtime, observer) => {
+export const define = (runtime, observer) => {
   const main = runtime.module();
   const toString = () => { return this.url; }
   const fileAttachments = new Map([

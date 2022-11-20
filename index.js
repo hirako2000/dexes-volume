@@ -1,1 +1,3 @@
-export {default} from "./process.js";
+import {define} from "./process.js";
+
+export default define;
