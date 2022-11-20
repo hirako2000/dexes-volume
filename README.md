@@ -7,7 +7,7 @@
     <h5 align="center">Live Demo</h3>
   </a>
   <a href="https://dexes-viz-20-22.surge.sh">
-    <img src="images/screenshot.png" alt="Logo" width="50%">
+    <img src="images/screenshot.png" alt="Logo" width="80%">
   </a>
 
   <p align="center">
